@@ -6,5 +6,6 @@ editor: visual
 
 ```{r}
 library(dplyr)
+library(fpp3)
 ```
 
